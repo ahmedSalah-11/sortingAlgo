@@ -1,0 +1,18 @@
+.array-container {
+  position: static;
+  height: 100vh;
+  left: 100px;
+  background-color: #282c34;
+  /* top: 100px; */
+}
+
+.array-bar {
+  width: 20px;
+  background-color: turquoise;
+  display: inline-block;
+  margin: 0 2px;
+}
+h1 {
+  margin-left: 2px;
+  margin-right: 5px;
+}
